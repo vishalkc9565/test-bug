@@ -227,4 +227,4 @@ if [ $found_count -gt 0 ]; then
     fi
 else
     echo "No valid commits found in this scan."
-fi
+fi 
