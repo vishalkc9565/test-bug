@@ -18,16 +18,7 @@ kjnkj
 kjhk
 
 kjkj
-
-kjnkj
-
-
-kjhk
-
-kjkj
-
-kjnkj
-
+ 
 
 kjhk
 
